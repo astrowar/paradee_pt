@@ -3,6 +3,8 @@
 > **Um modelo de texto para fala (TTS) em português brasileiro com 8M de parâmetros, destilado do Kokoro-82M. Apenas 8,5 MB, roda 25x mais rápido que o tempo real em uma única thread de CPU.**
 > 
 > *(An 8M-parameter Brazilian Portuguese text-to-speech model distilled from Kokoro-82M. 8.5 MB, runs 25x real time on one CPU thread.)*
+>
+> 💡 **Procura um modelo ainda menor?** Conheça o [**Paradee 4M (pt-BR)**](https://github.com/astrowar/paradee_4m), fork ultra-compacto com apenas **~3,9 MB** em ONNX int8 para ESP32 e dispositivos com recursos restritos.
 
 Este repositório é um fork do [Paradee](https://github.com/sahilmahendrakar/paradee) adaptado e treinado para **Português Brasileiro (pt-BR)** com suporte às vozes **Dora (`pf_dora` - feminina)** e **Alex (`pm_alex` - masculina)**.
 
